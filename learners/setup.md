@@ -2,12 +2,9 @@
 title: Setup
 ---
 
-Setup instructions live in this document. Please specify the tools and the data
-sets the Learner needs to have installed.
-
 ## Data Sets
 
-Download the [data zip file](data/data.zip) and unzip it to your Desktop
+No data sets are needed for this lesson
 
 ## Software Setup
 
@@ -15,35 +12,10 @@ Download the [data zip file](data/data.zip) and unzip it to your Desktop
 
 ### Details
 
-Setup for different systems can be presented in dropdown menus via a `solution`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
+This lesson assumes you have R and RStudio installed on your computer.
+
+* [Download and install the latest version of R](https://www.r-project.org/).
+* [Download and install RStudio](https://www.rstudio.com/). RStudio is an application (an integrated development environment or IDE) that facilitates the use of R and offers a number of nice additional features. You will need the free Desktop version for your computer.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::: solution
-
-### Windows
-
-Use PuTTY
-
-:::::::::::::::::::::::::
-
-:::::::::::::::: solution
-
-### MacOS
-
-Use Terminal.app
-
-:::::::::::::::::::::::::
-
-
-:::::::::::::::: solution
-
-### Linux
-
-Use Terminal
-
-:::::::::::::::::::::::::
 
