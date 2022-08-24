@@ -1,10 +1,3 @@
-# The Carpentries Workbench Template R Markdown Lesson
+# Facts about Cats
 
-This lesson is a template lesson that uses [The Carpentries Workbench][workbench].
-
-To get started using this template, visit https://github.com/carpentries/workbench-template-rmd/generate
-and follow the instructions.
-
-If you have any questions, contact [@zkamvar](https://github.com/zkamvar)
-
-[workbench]: https://carpentries.github.io/sandpaper-docs/
+This is an example lesson about cats. If you want to preview this lesson using the {sandpaper} package online, you can head over to [the RStudio cloud project for this repo](https://rstudio.cloud/content/4386883), log in to RStudio cloud with your google or github account and click "save a permanent copy" at the top right to save it into your workspace.
